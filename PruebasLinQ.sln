@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasLinQ", "PruebasLinQ.csproj", "{D0385BE2-E908-40BA-916D-BC1512CE18B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0385BE2-E908-40BA-916D-BC1512CE18B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0385BE2-E908-40BA-916D-BC1512CE18B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0385BE2-E908-40BA-916D-BC1512CE18B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0385BE2-E908-40BA-916D-BC1512CE18B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B38B0215-7D6A-44E9-852F-7EC3CE5B693B}
+	EndGlobalSection
+EndGlobal
